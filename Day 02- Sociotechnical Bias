@@ -1,0 +1,39 @@
+I learned that AI systems don’t exist in isolation they are shaped by society, culture, and human decisions.
+
+Even if an algorithm is technically correct, it can still behave unfairly because it learns from a world that is already unequal.
+This is what sociotechnical bias means: technology and society are deeply connected.
+
+ Key ideas from today:
+1 AI reflects real-world systems and structures.
+2 Bias can come from history, culture, and human choices.
+3 Fixing AI bias requires more than better code — it requires better awareness.
+
+This day helped me understand that fairness in AI is not just a technical challenge, but a social one.
+
+  Case Study – Sociotechnical Bias
+
+ Example: A hiring algorithm
+
+In one example, a hiring system showed preference toward male candidates.  
+The reason wasn’t bad programming it was historical data.
+
+The company had mostly hired men in the past.  
+So the AI learned that “successful employees” looked a certain way.
+
+ What went wrong:
+- Past hiring data reflected gender imbalance.
+- The model assumed past patterns should continue.
+- Social bias became a technical output.
+
+This made it clear to me that AI doesn’t just predict the future — it often repeats the past.
+  
+   Reflection – Day 02
+
+Today really changed how I think about AI fairness.
+
+I realized that even if we remove obvious bias from data, AI can still be unfair because it learns from a biased world.
+  Society, culture, and history all leave fingerprints on AI systems.
+
+This is why ethical thinking is so important.  
+Without it, we risk building systems that quietly reinforce existing inequalities instead of fixing them.
+
